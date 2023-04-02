@@ -15,3 +15,4 @@ elif tvar == "kružnice":
     polomer = st.number_input("zadejte polomer kruznice")
     st.text(f"obvod kružnice je {2*3.14*polomer} a obsah {3.14*polomer**2}")
     
+st.header ("Moje aplikace")
